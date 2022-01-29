@@ -4,7 +4,7 @@ const eid = urlParams.get('eid');
 let employees = [];
 
 //fetch employee json file
-fetch('/assets/employees.json')
+fetch('assets/employees.json')
     .then(function(response) {
         return response.json();
     })
