@@ -1,0 +1,1398 @@
+{
+    "employees": [{
+            "Employee_No": "0001",
+            "NAME": "Husni Al Bayari",
+            "DEPARTMENT": "Management",
+            "DESIGNATION": "Chairman of the Board",
+            "EMAIL": "hb@dandbdubai.com",
+            "MOBILE": 971528822229,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0084",
+            "NAME": "Adham Younis",
+            "DEPARTMENT": "Management",
+            "DESIGNATION": "Group Chief Executive Officer",
+            "EMAIL": "adham@dandbdubai.com",
+            "MOBILE": 971567773702,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0002",
+            "NAME": "Mohammad Abu Ghaush",
+            "DEPARTMENT": "Management",
+            "DESIGNATION": "Group Chief Financial Officer",
+            "EMAIL": "ma@dandbdubai.com",
+            "MOBILE": 971556305898,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0003",
+            "NAME": "Edward Millward",
+            "DEPARTMENT": "Management",
+            "DESIGNATION": "Group Chief Commercial Officer",
+            "EMAIL": "em@dandbdubai.com",
+            "MOBILE": 971562290036,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0156",
+            "NAME": "Ksenia Zaytseva",
+            "DEPARTMENT": "Chairman of the Board",
+            "DESIGNATION": "Executive of the Chairman's Office",
+            "EMAIL": "aksinia@dandbdubai.com",
+            "MOBILE": 971509681161,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0102",
+            "NAME": "Abdullah Al-Khawaldeh",
+            "DEPARTMENT": "Asset Management",
+            "DESIGNATION": "Business Development Manager",
+            "EMAIL": "abdullah@dandbdubai.com",
+            "MOBILE": 971509819779,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0086",
+            "NAME": "Imane Abrouq",
+            "DEPARTMENT": "Asset Management",
+            "DESIGNATION": "Client Relation Manager",
+            "EMAIL": "imane@dandbdubai.com",
+            "MOBILE": 971556200811,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0085",
+            "NAME": "Bara' Antar",
+            "DEPARTMENT": "Asset Management",
+            "DESIGNATION": "Portfolio Manager",
+            "EMAIL": "antar@dandbdubai.com",
+            "MOBILE": 971562741414,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0123",
+            "NAME": "Abid Kabir",
+            "DEPARTMENT": "Asset Management",
+            "DESIGNATION": "Property Manager",
+            "EMAIL": "abid@dandbdubai.com",
+            "MOBILE": 971526805313,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0080",
+            "NAME": "Andrelina Gonzales",
+            "DEPARTMENT": "Asset Management",
+            "DESIGNATION": "Property Manager",
+            "EMAIL": "andrelina@dandbdubai.com",
+            "MOBILE": 971502468485,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0030",
+            "NAME": "Angelita Songco",
+            "DEPARTMENT": "Asset Management",
+            "DESIGNATION": "Property Manager",
+            "EMAIL": "ams@dandbdubai.com",
+            "MOBILE": 971567701367,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0092",
+            "NAME": "Ahmed Mushtaha",
+            "DEPARTMENT": "Asset Management",
+            "DESIGNATION": "Property Administrator",
+            "EMAIL": "ahmed.mushtaha@dandbdubai.com",
+            "MOBILE": 971507771006,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0042",
+            "NAME": "Oussama Ezzo",
+            "DEPARTMENT": "Customer Service",
+            "DESIGNATION": "Customer Service Manager",
+            "EMAIL": "oe@dandbdubai.com",
+            "MOBILE": 971502199392,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0135",
+            "NAME": "Godwill Neba",
+            "DEPARTMENT": "Customer Service",
+            "DESIGNATION": "Customer Service Executive",
+            "EMAIL": "godwill@dandbdubai.com",
+            "MOBILE": 971559616150,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0104",
+            "NAME": "Hayat Abdi",
+            "DEPARTMENT": "Customer Service",
+            "DESIGNATION": "Customer Service Executive",
+            "EMAIL": "hayat@dandbdubai.com",
+            "MOBILE": 971559126970,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0115",
+            "NAME": "Samantha Lopez",
+            "DEPARTMENT": "Customer Service",
+            "DESIGNATION": "Customer Service Executive",
+            "EMAIL": "samantha@dandbdubai.com",
+            "MOBILE": 971504248421,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0125",
+            "NAME": "Mohammed AlKhasawneh",
+            "DEPARTMENT": "Finance",
+            "DESIGNATION": "Finance Controller",
+            "EMAIL": "m.alkhasawneh@dandbdubai.com",
+            "MOBILE": 971504248505,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0008",
+            "NAME": "Shoyeb Khatri",
+            "DEPARTMENT": "Finance",
+            "DESIGNATION": "Accountant Manager",
+            "EMAIL": "sk@dandbdubai.com",
+            "MOBILE": 971561904839,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0105",
+            "NAME": "Adnan Tahir",
+            "DEPARTMENT": "Finance",
+            "DESIGNATION": "Senior Accountant",
+            "EMAIL": "adnan.t@dandbdubai.com",
+            "MOBILE": 971544329931,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0018",
+            "NAME": "Fahad Faqui",
+            "DEPARTMENT": "Finance",
+            "DESIGNATION": "Senior Accountant",
+            "EMAIL": "ff@dandbdubai.com",
+            "MOBILE": 971552164248,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0094",
+            "NAME": "Omar Khanfar",
+            "DEPARTMENT": "Finance",
+            "DESIGNATION": "Senior Accountant",
+            "EMAIL": "o.khanfar@dandbdubai.com",
+            "MOBILE": 971569767600,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0040",
+            "NAME": "Avais Dalvi",
+            "DEPARTMENT": "Finance",
+            "DESIGNATION": "PRO & Procurement Officer",
+            "EMAIL": "abd@dandbdubai.com",
+            "MOBILE": 971501702503,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0077",
+            "NAME": "Muzammil Baloch",
+            "DEPARTMENT": "Finance",
+            "DESIGNATION": "Accounts Coordinator",
+            "EMAIL": "muzammil@dandbdubai.com",
+            "MOBILE": 971545359381,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0113",
+            "NAME": "Yogendrakumar Pillai",
+            "DEPARTMENT": "Human Resource",
+            "DESIGNATION": "Group Director - Human Resources and Administration ",
+            "EMAIL": "yogapillai@dandbdubai.com",
+            "MOBILE": 971509022640,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0088",
+            "NAME": "Linzi McLelland",
+            "DEPARTMENT": "Human Resource",
+            "DESIGNATION": "Talent Acquisition Manager",
+            "EMAIL": "linzi@dandbdubai.com",
+            "MOBILE": 971561885669,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0023",
+            "NAME": "Henry Dianzon",
+            "DEPARTMENT": "Human Resource",
+            "DESIGNATION": "Human Resource Coordinator",
+            "EMAIL": "hjd@dandbdubai.com",
+            "MOBILE": 971557049915,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0160",
+            "NAME": "Ashrita Soman",
+            "DEPARTMENT": "Human Resource",
+            "DESIGNATION": "Human Resource Coordinator",
+            "EMAIL": null,
+            "MOBILE": 971589055532,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0142",
+            "NAME": "Rayan Rihawi",
+            "DEPARTMENT": "Human Resource",
+            "DESIGNATION": "Receptionist",
+            "EMAIL": "rayan@dandbdubai.com",
+            "MOBILE": 971507547809,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0107",
+            "NAME": "Kenny Flores",
+            "DEPARTMENT": "Human Resource",
+            "DESIGNATION": "Office Assistant",
+            "EMAIL": "kennyflores3085@yahoo.com",
+            "MOBILE": 971505738331,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0011",
+            "NAME": "Jasim Yehaiya",
+            "DEPARTMENT": "Human Resource",
+            "DESIGNATION": "Office Assistant & Driver ",
+            "EMAIL": "jasim315@gmail.com",
+            "MOBILE": 971503013579,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0047",
+            "NAME": "Thamoj Kaladura",
+            "DEPARTMENT": "Human Resource",
+            "DESIGNATION": "Office Assistant & Driver ",
+            "EMAIL": "thamojnikeshala@gmail.com",
+            "MOBILE": 971523973167,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0058",
+            "NAME": "Hussam Abdel-Hay",
+            "DEPARTMENT": "IT",
+            "DESIGNATION": "Director - Informatioin & Communication Technology (ICT)",
+            "EMAIL": "hussam@dandbdubai.com",
+            "MOBILE": 971565460598,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0012",
+            "NAME": "Nasir Majeed",
+            "DEPARTMENT": "IT",
+            "DESIGNATION": "IT Manager ",
+            "EMAIL": "rnm@dandbdubai.com",
+            "MOBILE": 971556139506,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0062",
+            "NAME": "Fahad Rashid",
+            "DEPARTMENT": "IT",
+            "DESIGNATION": "System Analyst",
+            "EMAIL": "fahad.r@dandbdubai.com",
+            "MOBILE": 971505332136,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0132",
+            "NAME": "Mohammed Danish",
+            "DEPARTMENT": "IT",
+            "DESIGNATION": "Frontend and Web Developer",
+            "EMAIL": "danish@dandbdubai.com",
+            "MOBILE": 971547170855,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0116",
+            "NAME": "Deepthi Mirthipati",
+            "DEPARTMENT": "IT",
+            "DESIGNATION": "IT & Systems specialist",
+            "EMAIL": "deepthi@dandbdubai.com",
+            "MOBILE": 971547626174,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0117",
+            "NAME": "Humza Nadeem",
+            "DEPARTMENT": "IT",
+            "DESIGNATION": "IT & Systems specialist",
+            "EMAIL": "humza@dandbdubai.com",
+            "MOBILE": 971589532030,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0114",
+            "NAME": "Mania Merrikhi",
+            "DEPARTMENT": "Marketing",
+            "DESIGNATION": "Marketing & Business Development Director",
+            "EMAIL": "mania@dandbdubai.com",
+            "MOBILE": 971505523048,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0064",
+            "NAME": "John Siman",
+            "DEPARTMENT": "Marketing",
+            "DESIGNATION": "Digital Marketing Manager",
+            "EMAIL": "johnmarvic@dandbdubai.com",
+            "MOBILE": 971563137317,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0103",
+            "NAME": "Imane Makhlouk",
+            "DEPARTMENT": "Marketing",
+            "DESIGNATION": "Social Media Executive",
+            "EMAIL": "i.makhlouk@dandbdubai.com",
+            "MOBILE": 971525871239,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0033",
+            "NAME": "Joshua Cena",
+            "DEPARTMENT": "Marketing",
+            "DESIGNATION": "Graphic Designer",
+            "EMAIL": "jc@dandbdubai.com",
+            "MOBILE": 971554724601,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0157",
+            "NAME": "Rita Jouaneh",
+            "DEPARTMENT": "Marketing",
+            "DESIGNATION": "Graphic Designer",
+            "EMAIL": "rita@dandbdubai.com",
+            "MOBILE": 971559745617,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0149",
+            "NAME": "Seyed Faamil",
+            "DEPARTMENT": "Marketing",
+            "DESIGNATION": "Graphic Designer",
+            "EMAIL": "seyed@dandbdubai.com",
+            "MOBILE": 971556429618,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0148",
+            "NAME": "Jithin Varghese",
+            "DEPARTMENT": "Marketing",
+            "DESIGNATION": "Marketing Secialist",
+            "EMAIL": "jithin@dandbdubai.com",
+            "MOBILE": 971503190884,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0035",
+            "NAME": "Odrande II Reyes",
+            "DEPARTMENT": "Marketing",
+            "DESIGNATION": "Photgrapher & Videographer",
+            "EMAIL": "or@dandbdubai.com",
+            "MOBILE": 971565499117,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0124",
+            "NAME": "Nabeel Yousaf",
+            "DEPARTMENT": "Marketing",
+            "DESIGNATION": "Photgrapher \/ Videographer",
+            "EMAIL": "nabeel@dandbdubai.com",
+            "MOBILE": 971526810152,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0126",
+            "NAME": "Shabnam Bashiri",
+            "DEPARTMENT": "Marketing",
+            "DESIGNATION": "Content Writer",
+            "EMAIL": "shabnam@dandbdubai.com",
+            "MOBILE": 971504602081,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0082",
+            "NAME": "Varsha Sujith",
+            "DEPARTMENT": "Marketing",
+            "DESIGNATION": "SEO and Digital Marketing Specialist",
+            "EMAIL": "varsha@dandbdubai.com",
+            "MOBILE": 971553697190,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0013",
+            "NAME": "Daniel Kyambadde",
+            "DEPARTMENT": "Marketing",
+            "DESIGNATION": "Marketing Administrator",
+            "EMAIL": "daniel.k@dandbdubai.com",
+            "MOBILE": 971502645480,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0034",
+            "NAME": "Liz Gapunuan",
+            "DEPARTMENT": "Operations",
+            "DESIGNATION": "Operations Development Manager ",
+            "EMAIL": "liz.g@dandbdubai.com",
+            "MOBILE": 971565241997,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0134",
+            "NAME": "Dana Zhantemirovna",
+            "DEPARTMENT": "Operations",
+            "DESIGNATION": "Listing Administrator",
+            "EMAIL": "ablakova@dandbdubai.com",
+            "MOBILE": 971521217853,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0079",
+            "NAME": "Ivee Ilagan",
+            "DEPARTMENT": "Operations",
+            "DESIGNATION": "Listing Administrator",
+            "EMAIL": "ivee@dandbdubai.com",
+            "MOBILE": 971562543587,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0129",
+            "NAME": "Jeza Oliquino",
+            "DEPARTMENT": "Operations",
+            "DESIGNATION": "Listing Administrator",
+            "EMAIL": "jeza@dandbdubai.com",
+            "MOBILE": 971563582740,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0024",
+            "NAME": "Juviniele Lauza",
+            "DEPARTMENT": "Operations",
+            "DESIGNATION": "Listing Administrator",
+            "EMAIL": "jl@dandbdubai.com",
+            "MOBILE": 971555543326,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0128",
+            "NAME": "Karen Bioco",
+            "DEPARTMENT": "Operations",
+            "DESIGNATION": "Listing Administrator",
+            "EMAIL": "karen@dandbdubai.com",
+            "MOBILE": 971547153680,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0127",
+            "NAME": "Mary Jade Fuentes",
+            "DEPARTMENT": "Operations",
+            "DESIGNATION": "Listing Administrator",
+            "EMAIL": "mary@dandbdubai.com",
+            "MOBILE": 971504295358,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0026",
+            "NAME": "May Ann Dasas",
+            "DEPARTMENT": "Operations",
+            "DESIGNATION": "Listing Administrator",
+            "EMAIL": "md@dandbdubai.com",
+            "MOBILE": 971523405573,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0025",
+            "NAME": "Precious Aquino",
+            "DEPARTMENT": "Operations",
+            "DESIGNATION": "Listing Administrator",
+            "EMAIL": "pma@dandbdubai.com",
+            "MOBILE": 971564066846,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0041",
+            "NAME": "Rinnah Intac",
+            "DEPARTMENT": "Operations",
+            "DESIGNATION": "Transaction Coordinator ",
+            "EMAIL": "ri@dandbdubai.com",
+            "MOBILE": 971523389047,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0031",
+            "NAME": "Wenelyn Bucho",
+            "DEPARTMENT": "Operations",
+            "DESIGNATION": "Listing Administrator",
+            "EMAIL": "wb@dandbdubai.com",
+            "MOBILE": 971568543079,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0039",
+            "NAME": "Ella Pontillas",
+            "DEPARTMENT": "Operations",
+            "DESIGNATION": "Tenant Assistant Coordinator ",
+            "EMAIL": "emp@dandbdubai.com",
+            "MOBILE": 971555640830,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0059",
+            "NAME": "Dana Alamassi",
+            "DEPARTMENT": "Operations",
+            "DESIGNATION": "Senior Conveyance Officer",
+            "EMAIL": "dana@dandbdubai.com",
+            "MOBILE": 971585818227,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0078",
+            "NAME": "Hanan Heidari",
+            "DEPARTMENT": "Operations",
+            "DESIGNATION": "Conveyance Officer",
+            "EMAIL": "hanan@dandbdubai.com",
+            "MOBILE": 971566536662,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0070",
+            "NAME": "Mia Hugill",
+            "DEPARTMENT": "Operations",
+            "DESIGNATION": "Conveyance Officer",
+            "EMAIL": "mia@dandbdubai.com",
+            "MOBILE": 971569608483,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0045",
+            "NAME": "AJ Smith",
+            "DEPARTMENT": "Sales & Leasing",
+            "DESIGNATION": "Director - Sales",
+            "EMAIL": "aj@dandbdubai.com",
+            "MOBILE": 971585660877,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0067",
+            "NAME": "Callum Radford",
+            "DEPARTMENT": "Sales & Leasing",
+            "DESIGNATION": "Sales & Leasing Consultant",
+            "EMAIL": "callum@dandbdubai.com",
+            "MOBILE": 971585651998,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0106",
+            "NAME": "Daniel-Paul Langston",
+            "DEPARTMENT": "Sales & Leasing",
+            "DESIGNATION": "Senior Sales Consultant",
+            "EMAIL": "danny@dandbdubai.com",
+            "MOBILE": 971568545961,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0048",
+            "NAME": "Jack Wilson",
+            "DEPARTMENT": "Sales & Leasing",
+            "DESIGNATION": "Senior Sales Consultant",
+            "EMAIL": "jack.w@dandbdubai.com",
+            "MOBILE": 971585148486,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0038",
+            "NAME": "Keisha Brass",
+            "DEPARTMENT": "Sales & Leasing",
+            "DESIGNATION": "Senior Sales Consultant",
+            "EMAIL": "kb@dandbdubai.com",
+            "MOBILE": 971585958842,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0015",
+            "NAME": "Magdolna Jano",
+            "DEPARTMENT": "Sales & Leasing",
+            "DESIGNATION": "Senior Sales Consultant",
+            "EMAIL": "mj@dandbdubai.com",
+            "MOBILE": 971569501260,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0021",
+            "NAME": "Shane Jewell",
+            "DEPARTMENT": "Sales & Leasing",
+            "DESIGNATION": "Senior Sales Consultant",
+            "EMAIL": "sj@dandbdubai.com",
+            "MOBILE": 971569907345,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0053",
+            "NAME": "Anna Szabunia",
+            "DEPARTMENT": "Sales & Leasing",
+            "DESIGNATION": "Sales Consultant",
+            "EMAIL": "anna.s@dandbdubai.com",
+            "MOBILE": 971551028042,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0017",
+            "NAME": "Benjamin Abudiore",
+            "DEPARTMENT": "Sales & Leasing",
+            "DESIGNATION": "Sales Consultant",
+            "EMAIL": "ba@dandbdubai.com",
+            "MOBILE": 971565014635,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0049",
+            "NAME": "Bradley Meechan",
+            "DEPARTMENT": "Sales & Leasing",
+            "DESIGNATION": "Sales Consultant",
+            "EMAIL": "bradley.m@dandbdubai.com",
+            "MOBILE": 971585958241,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0050",
+            "NAME": "Dania Kokash",
+            "DEPARTMENT": "Sales & Leasing",
+            "DESIGNATION": "Sales Consultant",
+            "EMAIL": "dania.k@dandbdubai.com",
+            "MOBILE": 971503189955,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0152",
+            "NAME": "Elena Birarra",
+            "DEPARTMENT": "Sales & Leasing",
+            "DESIGNATION": "Sales Consultant",
+            "EMAIL": "elena@dandbdubai.com",
+            "MOBILE": 971585963660,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0054",
+            "NAME": "Garvin Samaroo",
+            "DEPARTMENT": "Sales & Leasing",
+            "DESIGNATION": "Sales Consultant",
+            "EMAIL": "garvin@dandbdubai.com",
+            "MOBILE": 971585197914,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0069",
+            "NAME": "Klaudia Krolak",
+            "DEPARTMENT": "Sales & Leasing",
+            "DESIGNATION": "Sales Consultant",
+            "EMAIL": "klaudia@dandbdubai.com",
+            "MOBILE": 971502477207,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0081",
+            "NAME": "Lewis Dudley",
+            "DEPARTMENT": "Sales & Leasing",
+            "DESIGNATION": "Sales Consultant",
+            "EMAIL": "lewis@dandbdubai.com",
+            "MOBILE": 971585847594,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0153",
+            "NAME": "Michael Harlegren",
+            "DEPARTMENT": "Sales & Leasing",
+            "DESIGNATION": "Sales Consultant",
+            "EMAIL": "michael.h@dandbdubai.com",
+            "MOBILE": 971585586861,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0154",
+            "NAME": "Naheed Malik",
+            "DEPARTMENT": "Sales & Leasing",
+            "DESIGNATION": "Sales Consultant",
+            "EMAIL": "naheed@dandbdubai.com",
+            "MOBILE": 971585780103,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0072",
+            "NAME": "Nicholas Cox",
+            "DEPARTMENT": "Sales & Leasing",
+            "DESIGNATION": "Sales Consultant",
+            "EMAIL": "nicholas@dandbdubai.com",
+            "MOBILE": 971585941425,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0119",
+            "NAME": "Paul Wilson",
+            "DEPARTMENT": "Sales & Leasing",
+            "DESIGNATION": "Sales Consultant",
+            "EMAIL": "paul@dandbdubai.com",
+            "MOBILE": 971585462404,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0044",
+            "NAME": "Petro Stytsenko",
+            "DEPARTMENT": "Sales & Leasing",
+            "DESIGNATION": "Sales Consultant",
+            "EMAIL": "ps@dandbdubai.com",
+            "MOBILE": 971529612300,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0065",
+            "NAME": "Raja Ahmed",
+            "DEPARTMENT": "Sales & Leasing",
+            "DESIGNATION": "Sales Consultant",
+            "EMAIL": "raja@dandbdubai.com",
+            "MOBILE": 971566292636,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0020",
+            "NAME": "Spencer Wills",
+            "DEPARTMENT": "Sales & Leasing",
+            "DESIGNATION": "Sales Consultant",
+            "EMAIL": "sw@dandbdubai.com",
+            "MOBILE": 971569966587,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0120",
+            "NAME": "Stephane Manga",
+            "DEPARTMENT": "Sales & Leasing",
+            "DESIGNATION": "Sales Consultant",
+            "EMAIL": "stephane@dandbdubai.com",
+            "MOBILE": 971583037669,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0068",
+            "NAME": "Ugne Grazyte",
+            "DEPARTMENT": "Sales & Leasing",
+            "DESIGNATION": "Sales Consultant",
+            "EMAIL": "ugne@dandbdubai.com",
+            "MOBILE": 971503608249,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0121",
+            "NAME": "Youssef Ach-Charki",
+            "DEPARTMENT": "Sales & Leasing",
+            "DESIGNATION": "Sales Consultant",
+            "EMAIL": "youssef@dandbdubai.com",
+            "MOBILE": 971585760069,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0037",
+            "NAME": "Michael Bell",
+            "DEPARTMENT": "Sales & Leasing",
+            "DESIGNATION": "Senior Leasing Consultant",
+            "EMAIL": "mb@dandbdubai.com",
+            "MOBILE": 971528734475,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0043",
+            "NAME": "Olena Myronenko",
+            "DEPARTMENT": "Sales & Leasing",
+            "DESIGNATION": "Senior Leasing Consultant",
+            "EMAIL": "olena.m@dandbdubai.com",
+            "MOBILE": 971502907667,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0089",
+            "NAME": "Alaa Ali",
+            "DEPARTMENT": "Sales & Leasing",
+            "DESIGNATION": "Leasing Consultant ",
+            "EMAIL": "alaa@dandbdubai.com",
+            "MOBILE": 971556666747,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0151",
+            "NAME": "Andrew Taylor",
+            "DEPARTMENT": "Sales & Leasing",
+            "DESIGNATION": "Leasing Consultant ",
+            "EMAIL": "andrew@dandbdubai.com",
+            "MOBILE": 971585641197,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0100",
+            "NAME": "Diya AbuEisheh",
+            "DEPARTMENT": "Sales & Leasing",
+            "DESIGNATION": "Leasing Consultant ",
+            "EMAIL": "diya@dandbdubai.com",
+            "MOBILE": 971562239074,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0147",
+            "NAME": "Fatima Baddoun",
+            "DEPARTMENT": "Sales & Leasing",
+            "DESIGNATION": "Leasing Consultant ",
+            "EMAIL": "fatima@dandbdubai.com",
+            "MOBILE": 971508625154,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0109",
+            "NAME": "Hannah Appleby",
+            "DEPARTMENT": "Sales & Leasing",
+            "DESIGNATION": "Leasing Consultant ",
+            "EMAIL": "hannah@dandbdubai.com",
+            "MOBILE": 971547512487,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0111",
+            "NAME": "Michael Muriithi",
+            "DEPARTMENT": "Sales & Leasing",
+            "DESIGNATION": "Leasing Consultant ",
+            "EMAIL": "michael@dandbdubai.com",
+            "MOBILE": 971547009805,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0074",
+            "NAME": "Michael Johnston",
+            "DEPARTMENT": "Sales & Leasing",
+            "DESIGNATION": "Leasing Consultant ",
+            "EMAIL": "michael.j@dandbdubai.com",
+            "MOBILE": 971523971883,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0075",
+            "NAME": "Sufyan Khatri",
+            "DEPARTMENT": "Sales & Leasing",
+            "DESIGNATION": "Leasing Consultant ",
+            "EMAIL": "sufyan@dandbdubai.com",
+            "MOBILE": 971528678611,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0101",
+            "NAME": "Muhammad Tayyab",
+            "DEPARTMENT": "Sales & Leasing",
+            "DESIGNATION": "Leasing Consultant ",
+            "EMAIL": "m.tayyab@dandbdubai.com",
+            "MOBILE": 971521886780,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0155",
+            "NAME": "Ndunga Seya",
+            "DEPARTMENT": "Sales & Leasing",
+            "DESIGNATION": "Leasing Consultant ",
+            "EMAIL": "ndunga@dandbdubai.com",
+            "MOBILE": 971562101612,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0112",
+            "NAME": "Olga Domkina",
+            "DEPARTMENT": "Sales & Leasing",
+            "DESIGNATION": "Leasing Consultant ",
+            "EMAIL": "olga@dandbdubai.com",
+            "MOBILE": 971566504809,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0090",
+            "NAME": "Ruba Mohamad",
+            "DEPARTMENT": "Sales & Leasing",
+            "DESIGNATION": "Leasing Consultant ",
+            "EMAIL": "ruba@dandbdubai.com",
+            "MOBILE": 491725277770,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0122",
+            "NAME": "Zakir Malik",
+            "DEPARTMENT": "Sales & Leasing",
+            "DESIGNATION": "Leasing Consultant ",
+            "EMAIL": "zakir@dandbdubai.com",
+            "MOBILE": 971501249225,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0136",
+            "NAME": "James Portman",
+            "DEPARTMENT": "Off-Plan",
+            "DESIGNATION": "Director of Sales - Off-Plan",
+            "EMAIL": "jp@dandbdubai.com",
+            "MOBILE": 971585019270,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0005",
+            "NAME": "Chetan Shroff",
+            "DEPARTMENT": "Off-Plan",
+            "DESIGNATION": "Associate Director",
+            "EMAIL": "cs@dandbdubai.com",
+            "MOBILE": 971501023345,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0006",
+            "NAME": "George Hughes",
+            "DEPARTMENT": "Off-Plan",
+            "DESIGNATION": "Associate Director",
+            "EMAIL": "gh@dandbdubai.com",
+            "MOBILE": 971565055047,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0004",
+            "NAME": "Piers Armstrong",
+            "DEPARTMENT": "Off-Plan",
+            "DESIGNATION": "Associate Director",
+            "EMAIL": "pa@dandbdubai.com",
+            "MOBILE": 971547711888,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0007",
+            "NAME": "Surayya Abdulla",
+            "DEPARTMENT": "Off-Plan",
+            "DESIGNATION": "Associate Director",
+            "EMAIL": "sa@dandbdubai.com",
+            "MOBILE": 971557161726,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0057",
+            "NAME": "Fawzi Yazigi",
+            "DEPARTMENT": "Off-Plan",
+            "DESIGNATION": "Senior Off-Plan Investment Consultant ",
+            "EMAIL": "fy@dandbdubai.com",
+            "MOBILE": 971564542058,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0056",
+            "NAME": "Hussain Abbas",
+            "DEPARTMENT": "Off-Plan",
+            "DESIGNATION": "Senior Off-Plan Investment Consultant ",
+            "EMAIL": "hussain.a@dandbdubai.com",
+            "MOBILE": 971562323923,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0055",
+            "NAME": "Mohamed Othman",
+            "DEPARTMENT": "Off-Plan",
+            "DESIGNATION": "Senior Off-Plan Investment Consultant ",
+            "EMAIL": "mohamed.a@dandbdubai.com",
+            "MOBILE": 971523081994,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0066",
+            "NAME": "Tamer Elmaabady",
+            "DEPARTMENT": "Off-Plan",
+            "DESIGNATION": "Senior Off-Plan Investment Consultant ",
+            "EMAIL": "tamer@dandbdubai.com",
+            "MOBILE": 971506592367,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0052",
+            "NAME": "Aamir Sattani",
+            "DEPARTMENT": "Off-Plan",
+            "DESIGNATION": "Off-Plan Investment Consultant",
+            "EMAIL": "aamir.s@dandbdubai.com",
+            "MOBILE": 971501015052,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0150",
+            "NAME": "Abdugani Khalilov",
+            "DEPARTMENT": "Off-Plan",
+            "DESIGNATION": "Off-Plan Investment Consultant",
+            "EMAIL": "abdugani@dandbdubai.com",
+            "MOBILE": 971553748492,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0143",
+            "NAME": "Ahd Baeshen",
+            "DEPARTMENT": "Off-Plan",
+            "DESIGNATION": "Off-Plan Investment Consultant",
+            "EMAIL": "ahad@dandbdubai.com",
+            "MOBILE": 971521382285,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0027",
+            "NAME": "Ahmed Rashwan",
+            "DEPARTMENT": "Off-Plan",
+            "DESIGNATION": "Off-Plan Investment Consultant",
+            "EMAIL": "ar@dandbdubai.com",
+            "MOBILE": 971505769604,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0139",
+            "NAME": "Aidana Aimurotava",
+            "DEPARTMENT": "Off-Plan",
+            "DESIGNATION": "Off-Plan Investment Consultant",
+            "EMAIL": "dana.a@dandbdubai.com",
+            "MOBILE": 971586619935,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0019",
+            "NAME": "Alireza Vahed",
+            "DEPARTMENT": "Off-Plan",
+            "DESIGNATION": "Off-Plan Investment Consultant",
+            "EMAIL": "ali.v@dandbdubai.com",
+            "MOBILE": 971503670339,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0022",
+            "NAME": "Anait Martirosyan",
+            "DEPARTMENT": "Off-Plan",
+            "DESIGNATION": "Off-Plan Investment Consultant",
+            "EMAIL": "am@dandbdubai.com",
+            "MOBILE": 971562657815,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0093",
+            "NAME": "Anzhelika Shoova",
+            "DEPARTMENT": "Off-Plan",
+            "DESIGNATION": "Off-Plan Investment Consultant",
+            "EMAIL": "anzhelika@dandbdubai.com",
+            "MOBILE": 971561784581,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0158",
+            "NAME": "Aya Abdulmunem",
+            "DEPARTMENT": "Off-Plan",
+            "DESIGNATION": "Off-Plan Investment Consultant",
+            "EMAIL": "aya@dandbdubai.com",
+            "MOBILE": 971567056693,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0137",
+            "NAME": "Bashar Fakher",
+            "DEPARTMENT": "Off-Plan",
+            "DESIGNATION": "Off-Plan Investment Consultant",
+            "EMAIL": "bashar@dandbdubai.com",
+            "MOBILE": 971508577293,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0133",
+            "NAME": "Berin Guclu",
+            "DEPARTMENT": "Off-Plan",
+            "DESIGNATION": "Off-Plan Investment Consultant",
+            "EMAIL": "berin@dandbdubai.com",
+            "MOBILE": 971526581033,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0138",
+            "NAME": "Doris Murong'A",
+            "DEPARTMENT": "Off-Plan",
+            "DESIGNATION": "Off-Plan Investment Consultant",
+            "EMAIL": "doris@dandbdubai.com",
+            "MOBILE": 971525831647,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0060",
+            "NAME": "El Hachemi Guenis",
+            "DEPARTMENT": "Off-Plan",
+            "DESIGNATION": "Off-Plan Investment Consultant",
+            "EMAIL": "elhachemi@dandbdubai.com",
+            "MOBILE": 971522027370,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0036",
+            "NAME": "Elnara Makhmudova",
+            "DEPARTMENT": "Off-Plan",
+            "DESIGNATION": "Off-Plan Investment Consultant",
+            "EMAIL": "elnara.m@dandbdubai.com",
+            "MOBILE": 971503391480,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0091",
+            "NAME": "Esen Khodzhageldyev",
+            "DEPARTMENT": "Off-Plan",
+            "DESIGNATION": "Off-Plan Investment Consultant",
+            "EMAIL": "esen@dandbdubai.com",
+            "MOBILE": 971585420115,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0144",
+            "NAME": "Haitham Elashram",
+            "DEPARTMENT": "Off-Plan",
+            "DESIGNATION": "Off-Plan Investment Consultant",
+            "EMAIL": "haitham@dandbdubai.com",
+            "MOBILE": 971501702562,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0051",
+            "NAME": "Iris Jahnke",
+            "DEPARTMENT": "Off-Plan",
+            "DESIGNATION": "Off-Plan Investment Consultant",
+            "EMAIL": "iris@dandbdubai.com",
+            "MOBILE": 971555164614,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0145",
+            "NAME": "Kayode Adeniyi",
+            "DEPARTMENT": "Off-Plan",
+            "DESIGNATION": "Off-Plan Investment Consultant",
+            "EMAIL": "kayode@dandbdubai.com",
+            "MOBILE": 971504069550,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0014",
+            "NAME": "Khalid Shabbir",
+            "DEPARTMENT": "Off-Plan",
+            "DESIGNATION": "Off-Plan Investment Consultant",
+            "EMAIL": "ks@dandbdubai.com",
+            "MOBILE": 971554537555,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0010",
+            "NAME": "Monir Al Midani",
+            "DEPARTMENT": "Off-Plan",
+            "DESIGNATION": "Off-Plan Investment Consultant",
+            "EMAIL": "mm@dandbdubai.com",
+            "MOBILE": 971505073534,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0046",
+            "NAME": "Omer Saleem",
+            "DEPARTMENT": "Off-Plan",
+            "DESIGNATION": "Off-Plan Investment Consultant",
+            "EMAIL": "omer.s@dandbdubai.com",
+            "MOBILE": 971557600088,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0146",
+            "NAME": "Salima Boussof",
+            "DEPARTMENT": "Off-Plan",
+            "DESIGNATION": "Off-Plan Investment Consultant",
+            "EMAIL": "salima@dandbdubai.com",
+            "MOBILE": 971554440320,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0159",
+            "NAME": "Sandra Kachel",
+            "DEPARTMENT": "Off-Plan",
+            "DESIGNATION": "Off-Plan Investment Consultant",
+            "EMAIL": "sandra@dandbdubai.com",
+            "MOBILE": 971585777587,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0140",
+            "NAME": "Sofiane Belabbas",
+            "DEPARTMENT": "Off-Plan",
+            "DESIGNATION": "Off-Plan Investment Consultant",
+            "EMAIL": "s.belabbas@dandbdubai.com",
+            "MOBILE": 971545003525,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0061",
+            "NAME": "Ahmed Fdil",
+            "DEPARTMENT": "Residential & Commercial",
+            "DESIGNATION": "Director - Commercial Sales & Leasing ",
+            "EMAIL": "ahmed.f@dandbdubai.com",
+            "MOBILE": 971505067357,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0096",
+            "NAME": "Virginia Fernandes",
+            "DEPARTMENT": "Residential & Commercial",
+            "DESIGNATION": "Back Office Manager",
+            "EMAIL": "virginia@dandbdubai.com",
+            "MOBILE": 971553237614,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0063",
+            "NAME": "Debra Gewan",
+            "DEPARTMENT": "Residential & Commercial",
+            "DESIGNATION": "Listing Administrator",
+            "EMAIL": "debra@dandbdubai.com",
+            "MOBILE": 971503990467,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0098",
+            "NAME": "Ahmed El Atrash",
+            "DEPARTMENT": "Residential & Commercial",
+            "DESIGNATION": "Commercial Sales Consultant ",
+            "EMAIL": "a.atrash@dandbdubai.com",
+            "MOBILE": 971551818249,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0099",
+            "NAME": "Dalia Akileh",
+            "DEPARTMENT": "Residential & Commercial",
+            "DESIGNATION": "Commercial Sales Consultant ",
+            "EMAIL": "d.akileh@dandbdubai.com",
+            "MOBILE": 971503873879,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0108",
+            "NAME": "Devotha Jacob",
+            "DEPARTMENT": "Residential & Commercial",
+            "DESIGNATION": "Commercial Sales Consultant ",
+            "EMAIL": "devotha@dandbdubai.com",
+            "MOBILE": 971505061482,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0110",
+            "NAME": "Hussein Chebli",
+            "DEPARTMENT": "Residential & Commercial",
+            "DESIGNATION": "Commercial Sales Consultant ",
+            "EMAIL": "hussein@dandbdubai.com",
+            "MOBILE": 971508286112,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0016",
+            "NAME": "Firas Al Banani",
+            "DEPARTMENT": "Holiday Homes",
+            "DESIGNATION": "Managing Director",
+            "EMAIL": "firas.albannani@dandbholidayhomes.com",
+            "MOBILE": 971505591938,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0029",
+            "NAME": "Ali Samhoun",
+            "DEPARTMENT": "Holiday Homes",
+            "DESIGNATION": "Sales & Business Development Manager",
+            "EMAIL": "ali.samhoun@dandbholidayhomes.com",
+            "MOBILE": 971559747472,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0087",
+            "NAME": "Mohammed El Jaafil",
+            "DEPARTMENT": "Holiday Homes",
+            "DESIGNATION": "Business Development Manager",
+            "EMAIL": "m.jaafil@dandbholidayhomes.com",
+            "MOBILE": 971501443547,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0032",
+            "NAME": "Abrar Mukadam",
+            "DEPARTMENT": "Holiday Homes",
+            "DESIGNATION": "Operations Manager ",
+            "EMAIL": "abrar.mukadam@dandbholidayhomes.com",
+            "MOBILE": 971558746766,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0130",
+            "NAME": "Hamza Taqesh",
+            "DEPARTMENT": "Holiday Homes",
+            "DESIGNATION": "Operations Executive",
+            "EMAIL": "humza@dandbdubai.com",
+            "MOBILE": 971522033783,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0076",
+            "NAME": "Majid Hamid",
+            "DEPARTMENT": "Holiday Homes",
+            "DESIGNATION": "Operations Executive",
+            "EMAIL": "majid.parker@dandbholidayhomes.com",
+            "MOBILE": 971545824765,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0083",
+            "NAME": "Mohammed Zaid Dinware",
+            "DEPARTMENT": "Holiday Homes",
+            "DESIGNATION": "Operations Executive",
+            "EMAIL": null,
+            "MOBILE": 971528424785,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0097",
+            "NAME": "Naveed Afzal",
+            "DEPARTMENT": "Holiday Homes",
+            "DESIGNATION": "Pre Sales Operation Executive",
+            "EMAIL": "n.afzal@holidayhomes.com",
+            "MOBILE": 971562104226,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0095",
+            "NAME": "Sahar Alsoussi",
+            "DEPARTMENT": "Holiday Homes",
+            "DESIGNATION": "Property Setup Specialist ",
+            "EMAIL": "s.alsoussi@dandbholidayhomes.com",
+            "MOBILE": 971507930516,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0131",
+            "NAME": "Sajid Qureshi",
+            "DEPARTMENT": "Holiday Homes",
+            "DESIGNATION": "Property Setup Specialist ",
+            "EMAIL": null,
+            "MOBILE": 971552085355,
+            "TOTAL": 1
+        },
+        {
+            "Employee_No": "0141",
+            "NAME": "Ryskhan Izabekova",
+            "DEPARTMENT": "Holiday Homes",
+            "DESIGNATION": "Guest Relations  Executive",
+            "EMAIL": "ryskhan@dandbdubai.com",
+            "MOBILE": 971508613414,
+            "TOTAL": 1
+        }
+    ]
+}
